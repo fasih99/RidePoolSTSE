@@ -1,1 +1,1 @@
-"# rn-firebase-tailwind" 
+Fair Simulator 
