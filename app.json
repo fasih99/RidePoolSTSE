@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "rideaway",
-    "slug": "rideaway",
+    "name": "RidePool",
+    "slug": "RidePool",
     "version": "1.0.0",
-    "scheme": "rideaway",
+    "scheme": "ridepool",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon2.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -28,7 +28,8 @@
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.RECORD_AUDIO"
-      ]
+      ],
+      "package": "com.fasi_hussaini.rideaway"
     },
     "web": {
       "favicon": "./assets/favicon.png"
